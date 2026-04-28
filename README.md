@@ -1,4 +1,4 @@
-# 📝 Raw Quotes
+# 📝 Raw Quotes o 
 
 
 ## 📱 Screenshots
