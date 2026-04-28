@@ -7,7 +7,7 @@
 |---|---|
 | <img width="405" height="810" alt="image" src="https://github.com/user-attachments/assets/807715c8-6ac6-4857-b8ff-e966b7cd77a2" />
  <img width="401" height="805" alt="image" src="https://github.com/user-attachments/assets/fa02d708-1a4b-4d04-a021-ab1e13831995" />
-| ![Add Quote](screenshots/add_quote.png) 
+
 
 ---
 
